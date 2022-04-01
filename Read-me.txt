@@ -1,0 +1,11 @@
+Resources:
+Code & instructions that followed to made this project >>
+
+https://github.com/dusty-nv/jetson-inference/blob/master/docs/pytorch-cat-dog.md
+https://youtu.be/sN6aT9TpltU?list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8&t=5
+https://en.wikipedia.org/wiki/Brain_tumor
+
+
+You can download the Dataset >>
+
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
