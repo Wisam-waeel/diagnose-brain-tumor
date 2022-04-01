@@ -9,3 +9,5 @@ https://en.wikipedia.org/wiki/Brain_tumor
 You can download the Dataset >>
 
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
+and download & read the pdf file in my GitHub repository
